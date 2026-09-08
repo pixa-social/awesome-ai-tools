@@ -1,1 +1,5 @@
-SIZE_PROBE_25K_PLACEHOLDER_REPLACE_IMMEDIATELY
+led productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
+- [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+- [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
+- [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+PROBE_PARTIAL_25K_TEST_OK
